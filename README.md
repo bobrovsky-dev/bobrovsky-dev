@@ -9,7 +9,6 @@
   <img alt="SASS" src="https://img.shields.io/badge/-SASS-BF4080?style=flat-square&logo=sass&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F9E64C?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/badge/-Node.js-8CC500?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Vuejs" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vuejs&logoColor=white" />
   <img alt="Nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-39485C?style=flat-square&logo=Nuxtjs&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-6684BC?style=flat-square&logo=PHP&logoColor=white" />
