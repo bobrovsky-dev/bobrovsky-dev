@@ -15,4 +15,3 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E534AB?style=flat-square&logo=GraphQL&logoColor=white" />
 </p>
 <p>Mail me: <a href="mailto:i_bobrovsky@bk.ru">i_bobrovsky@bk.ru</a></p>
-<p>Check my website: <a href="https://bobrovsky-dev.ru/" target="_blank">bobrovsky-dev.ru</a></p>
